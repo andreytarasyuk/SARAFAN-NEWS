@@ -1,0 +1,55 @@
+Skip to content
+This repository
+Search
+Pull requests
+Issues
+Gist
+ @andreytarasyuk
+ Sign out
+ Watch 1
+  Star 0
+  Fork 0 leonidlisnevskiygulp
+ Code  Issues 0  Pull requests 0  Projects 0  Wiki  Pulse  Graphs
+Branch master Find file Copy pathgulp.gitignore
+ff7e158  on 9 Nov 2016
+ lisnevskiy-ПКlisnevskiy update
+0 contributors
+RawBlameHistory
+36 lines (33 sloc)  351 Bytes
+# Numerous always-ignore extensions
+.diff
+.psd
+.err
+.orig
+.log
+.rej
+.swo
+.swp
+.zip
+.vi
+.npm-debug.log
+.yarn-debug.log
+~
+
+# OS or Editor folders
+.DS_Store
+._
+Thumbs.db
+.cache
+.project
+.settings
+.tmproj
+.esproj
+nbproject
+.sublime-project
+.sublime-workspace
+.idea
+
+# Folders to ignore
+.sass-cache
+.tmp
+_tmp
+node_modules
+bower_components
+Contact GitHub API Training Shop Blog About
+© 2017 GitHub, Inc. Terms Privacy Security Status Help
